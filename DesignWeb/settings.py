@@ -80,11 +80,11 @@ WSGI_APPLICATION = 'DesignWeb.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'DesignWeb',
-        'USER': 'DesignWeb',
-        'PASSWORD':'DesignWeb!!',
-        'HOST':'60.205.191.26',
-        'PORT':'3306'
+        'NAME': '######',
+        'USER': '######',
+        'PASSWORD':'######',
+        'HOST':'######',
+        'PORT':'#####'
     }
 }
 
